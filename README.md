@@ -14,4 +14,5 @@ The data suggests that not all spending is equal in terms of carbon emission imp
 
 The data is based on U.S. averages so this could create a bias where a company using efficient renewable energy is penalized by being assigned the average factor for their industry. It also ignores use-phase emissions such as a car’s emissions from being used after purchase. We assume that 2022 USD values stay a stable proxy for carbon intensity, but inflation or price spikes in certain commodities could cause disparities. What was surprising was how much the "Margins" affected certain industries. We often think of the factory as being the main source of pollution and carbon emissions but for many consumer goods the retail and transport chain is the most impactful. If there had been more data, you could combine this with global trade data to see how these factors change when goods are imported from countries with less regulated power grids.
 
+Data Set Source Citation:
 U.S. Environmental Protection Agency. (2024). Supply Chain Greenhouse Gas Emission Factors v1.3 by NAICS-6 [Data set]. U.S. EPA Office of Research and Development. https://doi.org/10.23719/1531143
